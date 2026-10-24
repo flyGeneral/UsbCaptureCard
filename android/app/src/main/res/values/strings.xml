@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">采集卡预览</string>
+    <string name="empty_title">未检测到采集卡</string>
+    <string name="empty_hint">1. 用 OTG 线将采集卡接到平板\n2. HDMI 连接 Switch 2 底座 → 采集卡\n3. 主机设置中 TV 分辨率选 1080p(60fps)\n4. 插入后请在系统弹窗中允许 USB 权限</string>
+    <string name="btn_record_start">●</string>
+    <string name="btn_record_stop">■</string>
+    <string name="record_failed">录制失败</string>
+    <string name="btn_mute_on">🔊</string>
+    <string name="btn_mute_off">🔇</string>
+    <string name="btn_resolution">分辨率</string>
+</resources>

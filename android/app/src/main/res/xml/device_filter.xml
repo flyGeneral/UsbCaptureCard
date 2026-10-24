@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MacroSilicon 系列采集卡常见 VID/PID(0x534d: 21325) + 通用 UVC video class(14) -->
+<resources>
+    <usb-device vendor-id="21325" product-id="8496" />
+    <usb-device vendor-id="21325" product-id="8457" />
+    <usb-device class="14" />
+</resources>
