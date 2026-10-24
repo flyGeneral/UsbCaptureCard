@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+build/
+dist/
+*.dmg
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
